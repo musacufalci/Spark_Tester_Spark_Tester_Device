@@ -1,30 +1,6 @@
 # Spark_Tester_Spark_Tester
 Hardware and Embedded Software of Spark Tester Spark Tester
 
-Spark Test Cihazı (Spark Tester) Kıvılcım Test Cihazı, TS EN 62230 standardına uygun olarak kablo izolasyonunun / yalıtımının yeterliliğini test etmek amacıyla tasarlanmıştır.
-Kablo üretim bandına yerleştirilerek üretim esnasında kablo yalıtımında oluşabilecek bozulmaların, deliklerin, hataların hızlı bir şekilde ve yüksek hassasiyetle tespit 
-edilmesini sağlar. Spark Cihazı ile şebeke frekansında (50/60 Hz) 15kV’a kadar sinüs gerilim dalgaları üretip 60 cm’lik kanal  boyunca boncuk elektrodlar vasıtasıyla kablo 
-yalıtımına uygulanabilir. Dakikada 200 metreye kadar kabloya test uygulanabilmektedir. Cihazın elektrodunda kullanılan boncuk zincirleri ve boncuk zincirlerinin yerleşim 
-aralıkları ilgili standart gereksinimlerine göre dizayn edilmiştir.
-
-Delinme / Atlama sayacı (9999’a kadar)
-Yüksek Gerilim uyarısı
-Delinme / Atlama durumunda sesli ve görüntülü alarm
-Teknik Parametreler
-Model	MTWSP-2
-Test Gerilimi /Güç        0-15kV / 5000VA
-Gerilim doğruluğu		      < %5
-Kablo Hızı			          200 metre / Dak
-Test kablosu çapı		      Max. 32mm
-Kararlı durum kısa devre akımı	600uA
-Elektrod uzunluğu		      600 mm
-Algılama çözünürlüğü		  0.05 saniye
-Elektrod tipi		          Zincir
-Çalışma modu		          Sürekli
-Besleme		                230V~, 50Hz
-
-
-
 Spark Tester The Spark Tester is designed to test the adequacy of the cable insulation / insulation in accordance with the TS EN 62230 standard. 
 By placing the cable on the production line, it ensures that the distortions, holes and faults that may occur in the cable insulation during 
 production are detected quickly and with high precision. With the Spark Device, it can generate sine voltage waves up to 15kV at the mains 
