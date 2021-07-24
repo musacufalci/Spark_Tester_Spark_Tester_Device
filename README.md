@@ -23,3 +23,6 @@ Detection resolution  0.05 seconds
 Electrode type Chain
 Working mode Continuous
 Supply                230V ~, 50Hz
+
+
+Design by https://www.linkedin.com/in/musacufalci/
