@@ -9,7 +9,7 @@ frequency (50/60 Hz) and can be applied to cable insulation through bead electro
 cable up to 200 meters per minute. The bead chains and the spacing of the bead chains used in the electrode of the device are designed 
 according to the relevant standard requirements.
 
-Puncture / Skip counter (up to 9999)
+- Puncture / Skip counter (up to 9999)
 High Voltage alert
 Audible and visual alarm in case of puncture / jump
 Technical Parameters
