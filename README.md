@@ -1,4 +1,4 @@
-# Spark Tester Spark Tester
+# Spark Tester
 
 - Hardware and Embedded Software of Spark Tester Spark Tester
 
