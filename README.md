@@ -1,7 +1,5 @@
 # Spark Tester
 
-Hardware and Embedded Software of Spark Tester Spark Tester
-
 Spark Tester The Spark Tester is designed to test the adequacy of the cable insulation / insulation in accordance with the TS EN 62230 standard. 
 By placing the cable on the production line, it ensures that the distortions, holes and faults that may occur in the cable insulation during 
 production are detected quickly and with high precision. With the Spark Device, it can generate sine voltage waves up to 15kV at the mains 
