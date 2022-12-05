@@ -13,8 +13,8 @@ Steady state short circuit current 600uA. Electrode length 600 mm. Detection res
 ________________________________________________________________________________________________________________________________________________________________
 Spark Test Cihazı, Spark/Kıvılcım Test Cihazı, Yalıtım Kusurlarının Kontrolü Test Cihazı
 
-1 )KULLANIM YERİ : İzolasyon yapılan yerlerde yalıtım bozukluklarını sürekli olarak kontrol etmek amacıyla kullanılır. Kablo izolasyon, emaye bobin tel vb.
+1) KULLANIM YERİ: İzolasyon yapılan yerlerde yalıtım bozukluklarını sürekli olarak kontrol etmek amacıyla kullanılır. Kablo izolasyon, emaye bobin tel vb.
 
-2 )ÖZELLİKLERİ : Metal veya Alüminyum gövde, 220-230 V AC Topraklı, 0-10 KV DC ayarlı çıkış voltajı, Hata sayıcılı ( digital ), Hata halinde sesli ve ışıklı alarm, Kontak çıkışlı, Ayarlanabilir sehpa, Digital göstergeli, Kablo geçiş kısmı farklı ölçülerde yapılır.
+2) ÖZELLİKLERİ: Metal veya Alüminyum gövde, 220-230 V AC Topraklı, 0-10 KV DC ayarlı çıkış voltajı, Hata sayıcılı ( digital ), Hata halinde sesli ve ışıklı alarm, Kontak çıkışlı, Ayarlanabilir sehpa, Digital göstergeli, Kablo geçiş kısmı farklı ölçülerde yapılır.
 ________________________________________________________________________________________________________________________________________________________________
 - Design by: https://www.linkedin.com/in/musacufalci/
